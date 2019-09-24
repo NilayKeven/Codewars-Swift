@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='SumMix'/>
+        <page name='PersonalizedMessage'/>
+        <page name='OppositeNumber'/>
+        <page name='StringRepeat'/>
+        <page name='ReduceButGrow'/>
+        <page name='SimpleMultiplication'/>
+        <page name='LostWithoutMap'/>
+        <page name='OnlyNeedOne'/>
+        <page name='ReantalCarCost'/>
+        <page name='Digitize'/>
+        <page name='CalculateBMI'/>
+        <page name='DollarsAndCents'/>
+        <page name='SquareOrNotSquare'/>
+        <page name='CountTheMonkey'/>
+    </pages>
+</playground>
