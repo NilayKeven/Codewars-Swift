@@ -15,5 +15,6 @@
         <page name='DollarsAndCents'/>
         <page name='SquareOrNotSquare'/>
         <page name='CountTheMonkey'/>
+        <page name='SumOfOdd'/>
     </pages>
 </playground>
