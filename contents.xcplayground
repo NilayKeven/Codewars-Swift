@@ -16,5 +16,6 @@
         <page name='SquareOrNotSquare'/>
         <page name='CountTheMonkey'/>
         <page name='SumOfOdd'/>
+        <page name='TriangularTreasure'/>
     </pages>
 </playground>
